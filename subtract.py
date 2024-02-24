@@ -5,3 +5,6 @@ def subtract(a, b):
     """
     result = a - b
     return a - b
+
+
+print(subtract(1, 2))
